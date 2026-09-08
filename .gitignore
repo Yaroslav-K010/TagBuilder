@@ -1,0 +1,29 @@
+# Build folders
+build/
+build-mingw/
+cmake-build-debug/
+cmake-build-release/
+release/
+
+# IDE
+.idea/
+.vscode/
+*.user
+*.sln
+*.vcxproj*
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# CMake generated
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Binary artifacts
+*.exe
+*.dll
+*.pdb
